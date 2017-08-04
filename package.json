@@ -1,0 +1,18 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "marks and spencer fizzbuzz test",
+  "main": "app.js",
+  "scripts": {
+   "test": "./node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+   
+  },
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
